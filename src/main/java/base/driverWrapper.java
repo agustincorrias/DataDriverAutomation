@@ -35,7 +35,7 @@ public class driverWrapper {
             log.error("Locator is null");
         } catch (WebDriverException we ) {
             log.error("WebDriver exception: " + we.getCause() );
-            log.info("Prueaaa");
+            log.info("Pruesadasdaaa");
         }
     }
 
