@@ -7,3 +7,4 @@ testcases\AddCustomerTest.class
 utilities\ExcelReader$Row.class
 utilities\ExcelReader.class
 utilities\ExcelReader$Cell.class
+base\Operations.class
