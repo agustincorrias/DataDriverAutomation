@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.028 s <<< FAILURE! - in TestSuite
+testcases.LoginTest.loginAsBankManager  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at testcases.LoginTest.loginAsBankManager(LoginTest.java:24)
+
